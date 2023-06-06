@@ -7,6 +7,9 @@
 -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Memories-of-Sun-and-Moon)
 
+Mainly I write articles on [Zenn](https://zenn.dev/mmrz)
+
+<a href="https://twitter.com/MMRRZZZ_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MMRRZZZ_</a>
 
 # Competitive Programing
 
