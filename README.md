@@ -19,3 +19,5 @@ Mainly I write articles on [Zenn](https://zenn.dev/mmrz)
 ![Badge](https://cp-logo.vercel.app/leetcode/MMRZ?logo=true)
 
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Memories-of-Sun-and-Moon&repo=cp_templates)
+
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=M3_cp&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A)](https://github.com/KATO-Hiro/AtCoderTrophies)
